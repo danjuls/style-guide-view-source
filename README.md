@@ -14,6 +14,7 @@ Each block you want to show the source code of should be wrapped in a
 The script then iterate over the sections and adds markup and a 'Show code' button.
 
 Press the button and tada! Pretty code appears.
+![image example](http://lib.danjuls.se/img/example-styleguide.jpg "example image")
 
 ---
 This is version 0.01 so it's just a simple evening hack
