@@ -1,0 +1,16 @@
+.style-heading {
+	border-bottom: 1px solid black
+}
+
+.show-code {
+	background: #cbcbcb;
+	color: #222;
+	float: left;
+	padding: .5em .9em;
+	text-decoration: none;
+}
+
+pre {
+	font-size: .850em;
+	line-height: 1.2em;
+}
