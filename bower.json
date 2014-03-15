@@ -1,0 +1,19 @@
+{
+  "name": "style-guide-view-source",
+  "version": "0.0.1",
+  "homepage": "https://github.com/danjuls/Style-guide-view-source",
+  "authors": [
+    "Daniel <daniel@danjuls.se>"
+  ],
+  "description": "style-guide-view-source is a simple jQuery script to show the expected source code in a .html file. For example an Style guide boilerplate.",
+  "main": "js/style-guide.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
